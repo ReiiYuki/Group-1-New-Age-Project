@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 1204794b40863e044b6ba818eb9993fc
+timeCreated: 1524250928
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 0603_001
+    100002: 0603_002
+    100004: 0603_003
+    100006: 0603_004
+    100008: 0603_005
+    100010: 0603_006
+    100012: 0603_007
+    100014: 0603_CAP_0
+    100016: 0603_CAP_1
+    100018: 0603_CAP_2
+    100020: 0603_CAP_3
+    100022: 0603_CAP_4
+    100024: 1206_CAP_0
+    100026: 215079-6_0
+    100028: //RootNode
+    100030: Group_001
+    100032: Group_003
+    100034: Group_004
+    100036: Group_005
+    100038: Group_007
+    100040: Group_008
+    100042: Group_009
+    100044: Group_010
+    100046: Group_011
+    100048: Group_012
+    100050: Group_013
+    100052: Group_014
+    100054: SOT23-3_00
+    400000: 0603_001
+    400002: 0603_002
+    400004: 0603_003
+    400006: 0603_004
+    400008: 0603_005
+    400010: 0603_006
+    400012: 0603_007
+    400014: 0603_CAP_0
+    400016: 0603_CAP_1
+    400018: 0603_CAP_2
+    400020: 0603_CAP_3
+    400022: 0603_CAP_4
+    400024: 1206_CAP_0
+    400026: 215079-6_0
+    400028: //RootNode
+    400030: Group_001
+    400032: Group_003
+    400034: Group_004
+    400036: Group_005
+    400038: Group_007
+    400040: Group_008
+    400042: Group_009
+    400044: Group_010
+    400046: Group_011
+    400048: Group_012
+    400050: Group_013
+    400052: Group_014
+    400054: SOT23-3_00
+    2100000: skp_front_defaul
+    2100002: 0131_Silver
+    2100004: Color_A02
+    2100006: '[Metal_Aluminum_'
+    2100008: 0136_Charcoal
+    2100010: 0046_Gold
+    2100012: 0056_Yellow
+    2100014: 0069_LimeGreen
+    2100016: 0128_White
+    2100018: 0020_Red
+    2100020: 0045_Goldenrod
+    2100022: 0135_DarkGray
+    2100024: 0035_Tan
+    2100026: eagleUp_USB_v2.0
+    2100028: eagleUp_USB_v1
+    2100030: mat_board
+    2100032: holes
+    2100034: element
+    2100036: 0136
+    2300000: 0603_001
+    2300002: 0603_002
+    2300004: 0603_003
+    2300006: 0603_004
+    2300008: 0603_005
+    2300010: 0603_006
+    2300012: 0603_007
+    2300014: 0603_CAP_0
+    2300016: 0603_CAP_1
+    2300018: 0603_CAP_2
+    2300020: 0603_CAP_3
+    2300022: 0603_CAP_4
+    2300024: 1206_CAP_0
+    2300026: 215079-6_0
+    2300028: Group_001
+    2300030: Group_003
+    2300032: Group_004
+    2300034: Group_005
+    2300036: Group_007
+    2300038: Group_008
+    2300040: Group_009
+    2300042: Group_010
+    2300044: Group_011
+    2300046: Group_012
+    2300048: Group_013
+    2300050: Group_014
+    2300052: SOT23-3_00
+    3300000: 0603_001
+    3300002: 0603_002
+    3300004: 0603_003
+    3300006: 0603_004
+    3300008: 0603_005
+    3300010: 0603_006
+    3300012: 0603_007
+    3300014: 0603_CAP_0
+    3300016: 0603_CAP_1
+    3300018: 0603_CAP_2
+    3300020: 0603_CAP_3
+    3300022: 0603_CAP_4
+    3300024: 1206_CAP_0
+    3300026: 215079-6_0
+    3300028: Group_001
+    3300030: Group_003
+    3300032: Group_004
+    3300034: Group_005
+    3300036: Group_007
+    3300038: Group_008
+    3300040: Group_009
+    3300042: Group_010
+    3300044: Group_011
+    3300046: Group_012
+    3300048: Group_013
+    3300050: Group_014
+    3300052: SOT23-3_00
+    4300000: Group_014
+    4300002: 215079-6_0
+    4300004: Group_013
+    4300006: Group_012
+    4300008: Group_011
+    4300010: Group_010
+    4300012: Group_009
+    4300014: SOT23-3_00
+    4300016: 0603_007
+    4300018: Group_007
+    4300020: Group_005
+    4300022: Group_004
+    4300024: Group_003
+    4300026: 0603_CAP_0
+    4300028: 1206_CAP_0
+    4300030: Group_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
