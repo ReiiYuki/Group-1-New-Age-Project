@@ -4,7 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Taichi.unity
-    guid: 28b8fa5cbf551404fa7e5858e8c4bd34
+  m_Scenes: []
